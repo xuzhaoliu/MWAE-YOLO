@@ -170,7 +170,7 @@ class PSABlock(nn.Module):
 class C2SCSA(nn.Module):
     def __init__(self, c1, c2, n=1, e=0.5):
         super().__init__()
-        assert c1 == c2,
+        assert c1 == c2
         self.c = int(c1 * e)
         self.cv1 = Conv(c1, 2 * self.c, 1, 1)
         self.cv2 = Conv(2 * self.c, c1, 1)
