@@ -1,6 +1,7 @@
 论文题目：Multi-scale Wavelet and Attention Enhanced YOLOv11 for UAV-based Forest Fire Detection 
 
 发表会议：2025 7th International Academic Exchange Conference on Science and Technology Innovation (IAECST)
+https://ieeexplore.ieee.org/abstract/document/11414847
 
 本项目为 MWAE-YOLO 的核心模块实现代码，基于 YOLOv11 框架，面向无人机视角下的森林火灾早期识别任务，重点提升对火焰、烟雾在复杂背景（云雾、强光斑等）下的特征表达能力。
 
