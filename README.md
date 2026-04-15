@@ -7,7 +7,7 @@ https://ieeexplore.ieee.org/abstract/document/11414847
 
 项目开源了论文中提出的三个关键改进模块以及对应的模型配置文件（YAML），用于支持方法复现与工程验证。
 
-<img width="8681" height="6715" alt="MWAE-YOLOv11" src="https://github.com/user-attachments/assets/0ff86def-a254-4ab9-885f-801e2108f00b" />
+<img width="8681" height="6716" alt="MWAE-YOLOv11" src="https://github.com/user-attachments/assets/c92f0f00-00cf-40d4-8f79-7ffa42291001" />
 
 
 开源内容说明
